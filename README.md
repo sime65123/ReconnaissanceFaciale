@@ -3,7 +3,7 @@
 
 1. Cloner le dépôt :
     ```bash
-    git clone https://github.com/your-username/face_recognition_project.git
+    git clone https://github.com/sime65123/ReconnaissanceFaciale.git
     cd face_recognition_project
     ```
 
